@@ -3,6 +3,8 @@ Acquisition Reconstruction
 
 Project in C++ allowing the user to visualize images contained in a DICOM file. This project allows us to visualize CT-Scan files in 2D and 3D using the DCMTK API and Qt as the user interface.
 
+The following data are extracted from a [public dataset](http://headctstudy.qure.ai/dataset).
+
 Build Project : 
 
 ```

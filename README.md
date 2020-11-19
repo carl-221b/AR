@@ -30,6 +30,6 @@ Frustum view 3D :
 
 
 Authors : 
-- Arthur Mondon (arthurjm)
-- Antonin Ayot (Antonneau)
+- Arthur Mondon ([arthurjm](https://github.com/arthurjm/))
+- Antonin Ayot ([Antonneau](https://github.com/Antonneau))
 - Tsiory Rakotoarisoa (Carl_221b)
